@@ -7,6 +7,8 @@ int main() {
   printf("Now I add a new line in the code\n");
   return 0;
 
+  // add comment
+
 }
 
 
